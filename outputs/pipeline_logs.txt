@@ -1,0 +1,4 @@
+
+Run Time: Tue Jan 13 15:30:54 2026
+Rows Processed: 90269
+Data Quality: {'invalid_quantity_rows': 14, 'invalid_shipment_rows': 9717, 'rows_dropped': 9731}
